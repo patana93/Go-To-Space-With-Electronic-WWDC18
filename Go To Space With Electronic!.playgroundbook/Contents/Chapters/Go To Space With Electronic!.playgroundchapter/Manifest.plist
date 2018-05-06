@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Go To Space With Electronic!</string>
+	<key>Pages</key>
+	<array>
+		<string>Welcome.cutscenepage</string>
+		<string>Electric Field.playgroundpage</string>
+		<string>RC Circuit.playgroundpage</string>
+		<string>Go To Space.playgroundpage</string>
+	</array>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
